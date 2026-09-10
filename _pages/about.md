@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+我是丁鑫河，目前就读于福州大学计算机科学与技术专业。我喜欢那种"从一行命令到一个能跑、能用、能给别人看的产品"的创造过程，也因此对 Web 后端开发和人工智能应用产生了浓厚兴趣。
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+学习之余，我热衷于把课堂知识做成完整的小项目——这次我用 HuggingFace 的 FLUX 模型搭了一个可交互的真实感文生图平台，从注册账号、读模型卡、调 API，到写 Flask 后端和前端页面，完整走通了一遍 AI 应用的开发链路（详见我的项目区）。
 
+我相信"先跑起来，再跑得好"：不害怕文档是英文的、不害怕报错是红色的，愿意查资料、读源码、写笔记。希望在这里认识更多一起写代码、一起折腾新技术的朋友。
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
